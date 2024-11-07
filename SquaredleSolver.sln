@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquaredleSolver", "SquaredleSolver.csproj", "{AAA8B398-DA2B-49E0-B63C-9822F185ED94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA8B398-DA2B-49E0-B63C-9822F185ED94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA8B398-DA2B-49E0-B63C-9822F185ED94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA8B398-DA2B-49E0-B63C-9822F185ED94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA8B398-DA2B-49E0-B63C-9822F185ED94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {419681FB-1C7C-49AE-89CE-0EEA19C8C9B2}
+	EndGlobalSection
+EndGlobal
